@@ -12,11 +12,11 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/balena-io-experimental/browser-block-demo'
+      url: 'https://github.com/cjs59/browser-block-demo'
   logo:
     type: blob.asset
     data:
-      url: 'https://raw.githubusercontent.com/balena-io-experimental/browser-block-demo/master/logo.png'
+      url: 'https://raw.githubusercontent.com/cjs59/browser-block-demo/master/logo.png'
 data:
   supportedDeviceTypes:
     - raspberrypi3-64
